@@ -54,7 +54,7 @@ Huggingface model card is [here](https://huggingface.co/clevo570/Nissan_Project)
 
 1. The Rogue's overall rating is slightly below average, especially when it comes to car acceleration and fun to drive. We checked the car configs and Rogue has 180 hp and the others are around 200 hp. We think this is the main reason.
 
-2. We think Rogue can bring more at this price comparing with other models, which means better value for money. We think the potential customers of these models are price-sensitive, and Rogue should improve on the premise of maintaining value for money.
+2. We think Rogue can bring more at this price compared with other models, which means better value for money. We think the potential customers of these models are price-sensitive, and Rogue should improve on the premise of maintaining value for money.
 
 3. Some attributes are overlapped or unclearly defined, we may optimize them later, such as Value for money and Retains resale value are similar, and it's hard to interpret what is last long.
 

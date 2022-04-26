@@ -54,10 +54,10 @@ Since there are some potential issues, we design a two-stage modeling:
 4. Since zero-shot model has limitations, we will choose another model, such as GPT-3, to try fine-tuning. This is also our future work.
 
 ## Huggingface Space
-Huggingface space is [here](https://huggingface.co/clevo570/Nissan_Project).
+Huggingface space is [here](https://huggingface.co/spaces/clevo570/Nissan_Project).
 
 ## Huggingface Model Card
-Huggingface model card is [here](https://huggingface.co/clevo570/Nissan_Project).
+Coming Soon
 
 ## Resource Links
 

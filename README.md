@@ -57,7 +57,7 @@ Since there are some potential issues, we design a two-stage modeling:
 Huggingface space is [here](https://huggingface.co/spaces/clevo570/Nissan_Project).
 
 ## Huggingface Model Card
-Coming Soon
+Huggingface model card is [here](https://huggingface.co/clevo570/Nissan_Project).
 
 ## Resource Links
 

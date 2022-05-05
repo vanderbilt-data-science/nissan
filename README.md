@@ -1,5 +1,7 @@
 # Nissan Project
 
+![Slide deck](https://docs.google.com/presentation/d/11cp0Sl6-j_qEahoBRX5rwOSNVWg1zg-4Nkbg8gNV4U0/edit#slide=id.p)
+
 ## Overview
 
 ### Backgroud

@@ -45,6 +45,10 @@ Since there are some potential issues, we design a two-stage modeling:
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/69759816/165228527-7d39cad1-ee23-4673-ada7-3b76f9790e50.png">
 
+## GPT-3
+**Generative Pre-trained Transformer - Generation 3**
+
+
 ## Critical Analysis
 
 1. The Rogue's overall rating is slightly below average, especially when it comes to car acceleration and fun to drive. We checked the car configs and Rogue has 180 hp and the others are around 200 hp. We think this is the main reason.

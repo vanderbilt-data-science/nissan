@@ -52,6 +52,15 @@ Since there are some potential issues, we design a two-stage modeling:
 
 <img width="1011" alt="Screen Shot 2022-05-05 at 10 46 04 AM" src="https://user-images.githubusercontent.com/65924566/166961773-c5afc429-b476-4f23-bd81-f51cd524be10.png">
 
+### Compare Values:
+
+- Use OpenAi (GPT-3), a large, more accurate, charged, model
+- Use Hugging Face, a open-source, relatively low accurate, free model
+
+### Solution:
+
+Domain Adaptation to Hugging Face model to reduce the model size and make more accurate prediction by open source model: Mask Fill: https://huggingface.co/bert-base-uncased 
+
 
 ## Critical Analysis
 

@@ -48,6 +48,10 @@ Since there are some potential issues, we design a two-stage modeling:
 ## GPT-3
 **Generative Pre-trained Transformer - Generation 3**
 
+[Result table](https://github.com/vanderbilt-data-science/nissan/blob/main/32-GPT3/comments_7_aggre.csv)
+
+<img width="1011" alt="Screen Shot 2022-05-05 at 10 46 04 AM" src="https://user-images.githubusercontent.com/65924566/166961773-c5afc429-b476-4f23-bd81-f51cd524be10.png">
+
 
 ## Critical Analysis
 
